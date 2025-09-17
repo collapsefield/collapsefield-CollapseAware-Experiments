@@ -1,0 +1,2 @@
+run_id,session_id,json_cue_id,trial_idx,trial_timestamp_utc,local_timestamp,device_ids,attached_media,short_note,witness,os_process_snapshot,network_state,phone_notifications,clock_display_before,clock_display_after,geo_approx,notes
+20250917-TEST01,ABC123,CUE_A1,12,2025-09-17T18:22:05Z,2025-09-17T19:22:05+01:00,"LAPTOP-3F;PHONE-8C","media/clock_1822.jpg","3 phones pinged simultaneously","M.R.","hash:47ad98","wifi-home(masked)","3 notifications","18:22","18:23","Folkestone, UK","Clock digits aligned as message was sent"
