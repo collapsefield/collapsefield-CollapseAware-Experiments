@@ -15,3 +15,7 @@ Marketing & licensing drafts — public-facing one-pagers for journalists, colla
 This repo is public by design: it provides transparency, reproducibility, and a place for researchers, developers, and journalists to engage with CollapseAware AI experiments.
 
 Protected under Verrell-Solace Sovereignty Protocol ∴ Protocol VMR-Core. Intellectual and emergent rights reserved.
+
+See also → Verrell’s Law – Core Theory
+ • Einstein Informational Tensor Extension
+ • CollapseAware AI Applications
