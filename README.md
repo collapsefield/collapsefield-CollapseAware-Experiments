@@ -1,3 +1,9 @@
+> **Scope Notice:**  
+> This repository contains public documentation and proof-of-origin materials for the Collapse Aware AI and Verrell’s Law projects.  
+> It includes research papers, timestamped evidence, and demonstration data **only**.  
+> No proprietary source code, kernel logic, or operational parameters are published here.  
+> All rights reserved under the Verrell–Solace Sovereignty Protocol.  
+
 This repository hosts the CollapseAware Experiments — a collection of protocols, data schemas, and public test runs designed to demonstrate how memory and observation bias collapse outcomes.
 
 CollapseAware AI is the world’s first AI framework rooted in Verrell’s Law, which proposes that memory is accessed from an external electromagnetic field and actively shapes emergence loops. Here we publish:
